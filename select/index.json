@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "How to Love",
+  "base_artist": "Cash Cash",
+  "createdAt": "2026-02-28T14:36:24.159595Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "How To Love",
+      "artist": "lil wayne",
+      "has_synced": true,
+      "path": "select/01_How_To_Love_lil_wayne.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Don’t Know How To Love Him",
+      "artist": "Sinéad O'Connor",
+      "has_synced": true,
+      "path": "select/02_I_Don’t_Know_How_To_Love_Him_Sinéad_O'Connor.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Don't Know How To Love Him",
+      "artist": "Sinéad O'Connor",
+      "has_synced": true,
+      "path": "select/03_I_Don't_Know_How_To_Love_Him_Sinéad_O'Connor.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Learning How to Love You",
+      "artist": "George Harrison",
+      "has_synced": true,
+      "path": "select/04_Learning_How_to_Love_You_George_Harrison.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No One Knows How to Love Me Quite Like You Do",
+      "artist": "Aaliyah",
+      "has_synced": true,
+      "path": "select/05_No_One_Knows_How_to_Love_Me_Quite_Like_You_Do_Aaliyah.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Don't Know How to Love",
+      "artist": "The Drums",
+      "has_synced": true,
+      "path": "select/06_I_Don't_Know_How_to_Love_The_Drums.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Don't Know How to Love Him.",
+      "artist": "Andrew Lloyd Webber",
+      "has_synced": true,
+      "path": "select/07_I_Don't_Know_How_to_Love_Him._Andrew_Lloyd_Webber.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Don't Know How to Love Him",
+      "artist": "Andrew Lloyd Webber",
+      "has_synced": true,
+      "path": "select/08_I_Don't_Know_How_to_Love_Him_Andrew_Lloyd_Webber.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Don't Know How To Love Him",
+      "artist": "Yvonne Elliman",
+      "has_synced": true,
+      "path": "select/09_I_Don't_Know_How_To_Love_Him_Yvonne_Elliman.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Don’t Know How to Love Him",
+      "artist": "Andrew Lloyd Webber",
+      "has_synced": true,
+      "path": "select/10_I_Don’t_Know_How_to_Love_Him_Andrew_Lloyd_Webber.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "If You Think You Know How To Love Me",
+      "artist": "Pat Benatar",
+      "has_synced": true,
+      "path": "select/11_If_You_Think_You_Know_How_To_Love_Me_Pat_Benatar.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Learning How to Love - 2018 Remaster",
+      "artist": "Howard Jones",
+      "has_synced": false,
+      "path": "select/12_Learning_How_to_Love_-_2018_Remaster_Howard_Jones.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Don't Know How to Love Him",
+      "artist": "Sinéad O’Connor",
+      "has_synced": true,
+      "path": "select/13_I_Don't_Know_How_to_Love_Him_Sinéad_O’Connor.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Don't Know How To Love Him",
+      "artist": "Melanie C",
+      "has_synced": true,
+      "path": "select/14_I_Don't_Know_How_To_Love_Him_Melanie_C.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "learning how to love",
+      "artist": "John K",
+      "has_synced": true,
+      "path": "select/15_learning_how_to_love_John_K.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "How To Love",
+      "artist": "Highlnd feat. Rachel Lorin",
+      "has_synced": true,
+      "path": "select/16_How_To_Love_Highlnd_feat._Rachel_Lorin.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "How To Love",
+      "artist": "Highlnd",
+      "has_synced": true,
+      "path": "select/17_How_To_Love_Highlnd.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "How To Love",
+      "artist": "Cash Cash",
+      "has_synced": false,
+      "path": "select/pl_01_How_To_Love_Cash_Cash.txt"
+    }
+  ]
+}
