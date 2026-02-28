@@ -1,0 +1,30 @@
+# Cash Cash – How to Love
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+But love pray for me
+I never had somebody
+So I don't know how to love
+Pray for me
+I know I need somebody
+So I can learn how to love
+I know its been a while
+Cause my memories on trial
+For the way I used to be
+My head is running miles
+Round in circles and I try to
+Find a little light in me
+You said I could fix the broken
+in your heart
+You're worth savin' darlin'
+But I don't know
+why you're shootin' in the dark
+I got faith in nothing
+But love pray for me
+I never had somebody
+So I don't know how to love
+Pray for me
+I know I need somebody
+So I can learn how to love
+```
